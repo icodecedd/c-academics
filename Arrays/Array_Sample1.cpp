@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> // Include standard input-output library
 
 int main() {
 	// Declare an array to hold 10 integers
@@ -23,4 +23,3 @@ int main() {
 	// Return 0 to indicate successful execution
 	return 0;
 }
-

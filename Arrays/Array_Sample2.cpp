@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // Include standard input-output library
 
 int main() {
     // Declare an array to hold 5 integers

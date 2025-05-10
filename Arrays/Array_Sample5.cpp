@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // Include standard input-output library
 
 int main() {
     int n[] = {33, 2, 70, 4, 52, 42, 8, 35, 9, 211}; 

@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> // Include standard input-output library
 #include <conio.h>
 #include <windows.h>
-#include <dos.h>
 #include <string.h>
 
 // Main function

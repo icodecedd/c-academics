@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <string.h>
+#include <stdio.h> // Include standard input-output library
+#include <string.h> // Include string manipulation library
 
 // Function to demonstrate passing an array to a function
 void pass_array(int x[]) {
