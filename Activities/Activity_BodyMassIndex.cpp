@@ -1,6 +1,6 @@
-#include <stdio.h>   // For input and output functions
-#define p printf     // Macro for printf
-#define s scanf      // Macro for scanf
+#include <stdio.h>   
+#define p printf     
+#define s scanf     
 
 int main() // Added return type for main function
 {
