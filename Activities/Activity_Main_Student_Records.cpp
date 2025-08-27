@@ -174,7 +174,7 @@ void add_display() {
 void close() {
 	int x = 0;
 	int delay = 800;
-	int time = 5;
+	int time = 3;
 	system("cls");
 
 	for (int i = time; i >= 0; --i) {
